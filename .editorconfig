@@ -270,3 +270,7 @@ ij_java_wrap_semicolon_after_call_chain = false
 
 [*.yml]
 indent_size = 2
+
+[*.g4]
+max_line_length = 160
+insert_final_newline = false
